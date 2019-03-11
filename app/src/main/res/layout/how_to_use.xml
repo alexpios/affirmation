@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:paddingTop="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Аффирмации – мысленные и словесные утверждения, состоящие из положительных, стимулирующих и жизнеутверждающих фраз, работающих только при позитивном настрое. Это одно из лучших средств борьбы за чистоту мышления, помогающее идти к поставленным целям методом воздействия на подсознание."
+        android:textStyle="italic"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        />
+    <TextView
+        android:paddingTop="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Довольно эффективным оказывается произношение позитивных утверждений из разных сфер, чтобы ещё больше усиливать внутреннюю энергию и добиваться целей в нескольких направлениях. Например, можно сочетать аффирмации на деньги с аффирмациями на любовь, на здоровье, аффирмациями на успех, для женщин и мужчин и др."
+        android:textStyle="italic"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        />
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textAlignment="center"
+        android:text="***************"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Как правильно составлять и произносить аффирмации"
+        android:textSize="18sp"
+        android:padding="7dp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:text="Перманентное повторение аффирмаций со временем вытесняет все негативные мысли. Регулярность в этом случае – основное условие для душевного и мозгового очищения. Чем больше мы наполнены позитивными установками, тем больше приятных изменений произойдёт в нашей жизни, главное – верить в это всеми фибрами души. Каким образом и как часто произносить аффирмации:"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Аффирмации необходимо произносить каждый день вслух в хорошем настроении, прочувствовав каждое слово и свято веря в произнесённое. Самое лучшее время для произнесения жизнеутверждающих фраз после сна или же перед сном. Бытует мнение, что переход из реальности в сон способствуют открытию каналов связи."
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        /><TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Эмоциональное состояние в такие моменты важно, поэтому без позитивного настроя лучше не начинать произносить эти фразы. Регулярность и частота произношений фраз — также обязательное условие. Чем больше вы произнесёте, тем быстрее сигнал поступит в ваш мозг. Достаточно повторять по двадцать минут до четырёх раз в день."
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:textSize="14sp"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Визуализировать своё желание не менее важно. Созданный яркий образ желания должен быть запечатлён в вашей памяти, чтобы он всякий раз всплывал в момент повторения относящейся к нему фразе и усиливать эффект от сказанного."
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Правила составления аффирмаций"
+        android:textSize="18sp"
+        android:padding="7dp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Аффирмация должна быть правильно составлена, иначе она не будет работать. Фразы должны быть утверждающими будто успех уже достигнут, любые отрицания не имеют отношения к аффирмациям. Обязательно должно быть сказано, чего вы хотите, а не о том чего бы вы не хотели. Поэтому следует быть аккуратнее с формулировкой своих желаний. Что попросите, то и получите!"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        />
+
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textAlignment="center"
+        android:text="***************"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Примеры неправильно построенных аффирмаций:"
+        android:textSize="18sp"
+
+        android:textStyle="bold"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="1.    Я не хочу получать такую низкую зарплату."
+        android:padding="7dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="2.    Я не хочу работать далеко от дома."
+        android:padding="7dp"
+
+        />  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="14sp"
+    android:text="3.    Я не хочу ездить на дешёвом автомобиле."
+    android:padding="7dp"
+
+    />
+
+    <TextView
+        android:padding="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Примеры неправильно построенных аффирмаций:"
+        android:textSize="18sp"
+
+        android:textStyle="bold"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="1.    Я зарабатываю огромные деньги."
+        android:padding="7dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="2.    Я работаю в двух минутах от дома."
+        android:padding="7dp"
+
+        />  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="14sp"
+    android:text="3.    Я обладатель автомобиля премиум-класса."
+    android:padding="7dp"/>
+
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textAlignment="center"
+        android:text="***************"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Применение во фразах частицы «не» приносит совершенно противоположный результат. Любые отрицательные аффирмации с частицей «не» или словами «нет, никогда и т. д.» разрушают планы, максимально вредя, поэтому их следует избегать."
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        android:paddingBottom="20dp"
+        />
+    </LinearLayout>
+</ScrollView>

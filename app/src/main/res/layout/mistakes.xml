@@ -1,9 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/gradient_bg"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+<LinearLayout
+    android:background="@drawable/bg_corners"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Правила составления аффирмаций"
+        android:textSize="18sp"
+        android:padding="7dp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Аффирмация должна быть правильно составлена, иначе она не будет работать. Фразы должны быть утверждающими будто успех уже достигнут, любые отрицания не имеют отношения к аффирмациям. Обязательно должно быть сказано, чего вы хотите, а не о том чего бы вы не хотели. Поэтому следует быть аккуратнее с формулировкой своих желаний. Что попросите, то и получите!"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="15sp"
+        />
+
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textAlignment="center"
+        android:text="***************"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Примеры неправильно построенных аффирмаций:"
+        android:textSize="18sp"
+
+        android:textStyle="bold"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="1.    Я не хочу получать такую низкую зарплату."
+        android:padding="7dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="2.    Я не хочу работать далеко от дома."
+        android:padding="7dp"
+
+        />  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="14sp"
+    android:text="3.    Я не хочу ездить на дешёвом автомобиле."
+    android:padding="7dp"
+
+    />
+
+    <TextView
+        android:padding="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Примеры неправильно построенных аффирмаций:"
+        android:textSize="18sp"
+
+        android:textStyle="bold"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="1.    Я зарабатываю огромные деньги."
+        android:padding="7dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="2.    Я работаю в двух минутах от дома."
+        android:padding="7dp"
+
+        />  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="14sp"
+    android:text="3.    Я обладатель автомобиля премиум-класса."
+    android:padding="7dp"/>
+
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textAlignment="center"
+        android:text="***************"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Применение во фразах частицы «не» приносит совершенно противоположный результат. Любые отрицательные аффирмации с частицей «не» или словами «нет, никогда и т. д.» разрушают планы, максимально вредя, поэтому их следует избегать."
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        android:paddingBottom="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Почему не работают аффирмации? Ошибки в использовании"
+        android:textSize="18sp"
+        android:padding="7dp"
+        android:textStyle="bold"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Отсутствие результата всегда имеет под собой почву. В случае с аффирмациями для этого может быть масса причин, потому что утверждения – это просто фразы, проговаривая которые на автомате мы вряд ли чего-то добьёмся. Для того чтобы задуманное сбывалось важно подключить своё подсознание."
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Главный враг аффирмаций – это внутреннее отсутствие веры и даже сопротивление. Повторяя позитивные утверждения, нужно хотеть этого всей душой, верить и обязательно к этому стремиться. Ибо под лежачий камень вода не потечёт.
+"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="14sp"
+        android:paddingBottom="25dp"
+        />
+
+
+
+
+
+
 
 
 
 </LinearLayout>
+
+
+</ScrollView>

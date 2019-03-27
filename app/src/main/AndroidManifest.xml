@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Affirmation.Dostatok" android:screenOrientation="portrait"></activity>
+        <activity android:name=".Affirmation.newUdacha"></activity>
+        <activity android:name=".Affirmation.Uspeh" />
+        <activity android:name=".Affirmation.Udacha" />
+        <activity
+            android:name=".Affirmation.Dostatok"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">

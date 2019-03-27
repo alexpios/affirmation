@@ -90,12 +90,12 @@
              <TextView
                  android:id="@+id/text_udacha"
                  android:textStyle="bold"
-                 android:textSize="14sp"
+                 android:textSize="12sp"
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
                  android:layout_marginTop="10dp"
                  android:textColor="#6f6f6f"
-                 android:text="На удачу"
+                 android:text="На процветание"
 
                  />
 
@@ -148,12 +148,14 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/img_uspeh"
                         android:src="@drawable/aff"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/text_uspeh"
                         android:textStyle="bold"
                         android:textSize="14sp"
                         android:layout_width="wrap_content"
@@ -190,12 +192,14 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/udacha"
                         android:src="@drawable/aff"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/tUdacha"
                         android:textStyle="bold"
                         android:textSize="14sp"
                         android:layout_width="wrap_content"

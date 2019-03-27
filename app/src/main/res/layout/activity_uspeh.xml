@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Affirmation.Uspeh">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textStyle="bold"
+            android:paddingTop="15dp"
+            android:textSize="20sp"
+            android:text="На привлечение успеха"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+
+            android:textSize="15sp"
+            android:text="Если вы хотите быть успешным и добиться лучших результатов, вам помогут следующие установки."
+            android:padding="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="1.    Сегодня у меня есть множество возможностей проявить себя. Все сложится наилучшим образом."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="2.    Мне всегда везет. Успех сопутствует мне в любых начинаниях."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="3.    Я получаю все, что хочу."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="4.    Я успешен, ведь Бог любит меня."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="5.    Я сильный морально и физически."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="6.    Каждый вдох наполняет меня уверенность в себе, а выдох уносит страхи и сомнения."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="7.    Во мне кипит неиссякаемая энергия. Я могу все."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="8.    Я привлекаю в свою жизнь только открытых и позитивных людей."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="9.    Я счастлив, что могу сам контролировать свою жизнь, и уверен в будущем."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="7dp"
+            android:text="10.  Я легко нахожу выход из любой ситуации, мыслю нестандартно и творчески, генерирую лучшие решения."
+            android:textStyle="italic"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:text="Судя по отзывам людей, которые использовали аффирмации на успех уже через 7 дней ощутили существенные перемены в жизни."
+            android:padding="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+
+            android:layout_marginTop="30dp"
+            android:id="@+id/back"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/but"
+            android:gravity="left|center_vertical"
+            android:padding="10dp"
+            android:layout_marginBottom="30dp"
+
+            android:text="На главную"
+            android:textAlignment="center"
+
+            android:textStyle="bold" />
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

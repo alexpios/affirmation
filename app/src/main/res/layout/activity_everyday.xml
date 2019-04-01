@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/a8"
     tools:context=".Affirmation.Everyday">
     <LinearLayout
         android:orientation="vertical"
@@ -15,7 +16,7 @@
             android:textStyle="bold"
             android:paddingTop="15dp"
             android:textSize="20sp"
-            android:text="Аффирмации на каждый день"
+            android:text="@string/ed"
             android:textAlignment="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -24,76 +25,76 @@
         <TextView
 
             android:textSize="15sp"
-            android:text="Эти установки вы можете применять сутра, чтобы сделать свой день еще лучше."
+            android:text="@string/edd"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="1.    Этот мой лучший день."
+            android:text="@string/ed1"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="2.    Я полон жизненной энергии."
+            android:text="@string/ed2"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="3.    Меня переполняет радость и любовь к людям, а они отвечают мне взаимностью."
+            android:text="@string/ed3"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="4.    Сегодня я неотразима: прекрасно выгляжу, излучаю позитив, полна сил для грандиозных свершений."
+            android:text="@string/ed4"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="5.    Этот день продуктивен, и приносит мне истинное удовольствие."
+            android:text="@string/ed5"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="6.    Я наслаждаюсь каждой минутой, ведь она неповторима."
+            android:text="@string/ed6"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="7.    Я излучаю счастье, радость и успех."
+            android:text="@string/ed7"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="8.    Я благодарна за каждый день моей жизни, ведь она прекрасна."
+            android:text="@string/ed8"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="9.    Мои намерения чисты. Я отказываюсь от негатива и разрушительных мыслей."
+            android:text="@string/ed9"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="10.  В моем сердце живет любовь, я прощаю все обиды и настроена на успех и процветание."
+            android:text="@string/ed10"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
@@ -103,7 +104,7 @@
         <TextView
             android:textStyle="bold"
             android:textSize="15sp"
-            android:text="Воспользуйтесь этими мощными аффирмациями, и сделайте свою жизнь еще лучше."
+            android:text="@string/edv"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

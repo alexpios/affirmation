@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/a7"
     tools:context=".Affirmation.Pohudenie">
     <LinearLayout
         android:orientation="vertical"
@@ -15,7 +16,7 @@
             android:textStyle="bold"
             android:paddingTop="15dp"
             android:textSize="20sp"
-            android:text="Для эффективного похудения"
+            android:text="@string/p"
             android:textAlignment="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -24,76 +25,76 @@
         <TextView
 
             android:textSize="15sp"
-            android:text="Чтобы ускорить процесс избавления от лишних килограммов, применяйте следующие положительные установки."
+            android:text="@string/pp"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="1.    Я прекрасна: у меня стройное тело и идеальная фигура."
+            android:text="@string/p1"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="2.    Я быстро и легко худею, и испытываю удовольствие от этого."
+            android:text="@string/p2"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="3.    Мои килограммы тают на глазах, как снег на теплом весеннем солнце."
+            android:text="@string/p3"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="4.    Я люблю и принимаю себя."
+            android:text="@string/p4"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="5.    Я стройный, подтянутый, накачанный. Мне комфортно в моем весе."
+            android:text="@string/p5"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="6.    Я легко сбрасываю вес, и доволен своим результатом."
+            android:text="@string/p6"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="7.    Я идеальна, а мой вес в норме."
+            android:text="@string/p7"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="8.    Я мало ем и чувствую себя сытой и удовлетворенной."
+            android:text="@string/p8"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="9.    Я эффективно тренируюсь. Занятия спортом приносят мне истинное наслаждение и сжигают массу калорий."
+            android:text="@string/p9"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="10.  Я стабильно сбрасываю вес. Каждый день мое тело выглядит все лучше, и лучше."
+            android:text="@string/p10"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
@@ -103,7 +104,7 @@
         <TextView
             android:textStyle="bold"
             android:textSize="15sp"
-            android:text="Начиная процесс похудения, выберите для себя подходящие установки, и настройтесь на положительный результат."
+            android:text="@string/pv"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

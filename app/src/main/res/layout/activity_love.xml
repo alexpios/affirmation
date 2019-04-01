@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/a6"
     tools:context=".Affirmation.Love">
     <LinearLayout
         android:orientation="vertical"
@@ -14,7 +15,7 @@
             android:textStyle="bold"
             android:paddingTop="15dp"
             android:textSize="20sp"
-            android:text="На привлечение любви"
+            android:text="@string/ml"
             android:textAlignment="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -23,76 +24,76 @@
         <TextView
 
             android:textSize="15sp"
-            android:text="Мы собрали лучшие позитивные установки, именно на эти источники в интернете наибольшее количество позитивных отзывов."
+            android:text="@string/ll"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="1.    Я наполнен(а) внутренним светом и любовью."
+            android:text="@string/l1"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="2.    Я искренне люблю всех вокруг, и мне отвечают взаимностью."
+            android:text="@string/l2"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="3.    Я счастлив(а) в личных отношениях и удовлетворен в интимной сфере."
+            android:text="@string/l3"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="4.    У меня отличный партнер: он вдохновляет меня, поддерживает и понимает."
+            android:text="@string/l4"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="5.    Я счастлив(а) каждый день любить и быть любимым(ой). Я испытываю радость познания себя и своей половинки."
+            android:text="@string/l5"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="6.    Любовь переполняет меня. Я открыт(а) для новых отношений и эмоций."
+            android:text="@string/l6"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="7.    Я вдохновляю своего партнера и восхищаюсь им. Я счастлив(а) быть с этим человеком."
+            android:text="@string/l7"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="8.    Я получаю удовольствие от интимных отношений и общения со своей второй половинкой. Я заслуживаю любви, и излучаю ее каждой клеточкой своего тела."
+            android:text="@string/l8"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="9.    Я с радостью отдаюсь своему партнеру и получаю от него взаимность. Мы восторгаемся друг — другом."
+            android:text="@string/l9"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="10.  Я безмерно счастлив(а)."
+            android:text="@string/l10"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
@@ -102,7 +103,7 @@
         <TextView
             android:textStyle="bold"
             android:textSize="15sp"
-            android:text="Данные установки подходят как для мужчин, так и для женщин. Регулярно произносите эти аффирмации, и в скором времени заметите положительные изменения в своей личной жизни и интимной сфере."
+            android:text="@string/lv"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

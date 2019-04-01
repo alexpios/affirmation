@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/a2"
     tools:context=".Affirmation.Udacha">
 
 
@@ -16,7 +17,7 @@
             android:textStyle="bold"
             android:paddingTop="15dp"
             android:textSize="20sp"
-            android:text="На процветание"
+            android:text="@string/pr"
             android:textAlignment="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -24,76 +25,76 @@
 
         <TextView
             android:textSize="15sp"
-            android:text="Эти аффирмации можно использовать каждый день, чтобы улучшить в целом качество жизни."
+            android:text="@string/prr"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="1.    Я успешный, счастливый и реализованный человек."
+            android:text="@string/pr1"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="2.    Мне всего хватает. Я контролирую ситуацию, и в целом свою жизнь. Легко и с удовольствием забочусь о близких людях."
+            android:text="@string/pr2"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="3.    Вселенная любит меня и предоставляет массу возможностей каждый день."
+            android:text="@string/pr3"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="4.    У меня все под контролем: здоровье, карьера, финансы, личная жизнь."
+            android:text="@string/pr4"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="5.    Все мои начинания успешны, а мечты сбываются."
+            android:text="@string/pr5"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="6.    Все что я захочу, реализовывается."
+            android:text="@string/pr6"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="7.    Я могу все. Мое сердце переполняют радость и счастье."
+            android:text="@string/pr7"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="8.    Я получаю все, что мне нужно, и даже больше. Каждый день наполнен радостью и новыми впечатлениями."
+            android:text="@string/pr8"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="9.    Мне всегда везет, Бог любит и заботится обо мне."
+            android:text="@string/pr9"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:padding="7dp"
-            android:text="10.  Я спокоен, сосредоточен, взвешенно принимаю решения и они всегда верные."
+            android:text="@string/pr10"
             android:textStyle="italic"
             android:textSize="15sp"
             android:layout_width="match_parent"
@@ -103,7 +104,7 @@
         <TextView
             android:textStyle="bold"
             android:textSize="15sp"
-            android:text="Выберите наиболее подходящую для себя установку, и произносите ее регулярно."
+            android:text="@string/prV"
             android:padding="7dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -121,7 +122,7 @@
             android:padding="10dp"
             android:layout_marginBottom="30dp"
 
-            android:text="На главную"
+            android:text="@string/back"
             android:textAlignment="center"
 
             android:textStyle="bold" />

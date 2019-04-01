@@ -9,9 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Affirmation.newUdacha"></activity>
-        <activity android:name=".Affirmation.Uspeh" />
-        <activity android:name=".Affirmation.Udacha" />
+        <activity android:name=".Affirmation.Guys"></activity>
+        <activity android:name=".Affirmation.Girls" />
+        <activity android:name=".Affirmation.Everyday" />
+        <activity android:name=".Affirmation.Pohudenie" />
+        <activity android:name=".Affirmation.Love" />
+        <activity android:name=".Affirmation.Zdorovie" />
+        <activity
+            android:name=".Affirmation.newUdacha"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Affirmation.Uspeh"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Affirmation.Udacha"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Affirmation.Dostatok"
             android:screenOrientation="portrait" />

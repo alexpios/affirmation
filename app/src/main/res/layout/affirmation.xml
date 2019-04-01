@@ -51,7 +51,7 @@
     android:layout_height="wrap_content"
     android:layout_marginTop="10dp"
     android:textColor="#6f6f6f"
-    android:text="На достаток"
+    android:text="@string/dos"
 
     />
 
@@ -95,7 +95,7 @@
                  android:layout_height="wrap_content"
                  android:layout_marginTop="10dp"
                  android:textColor="#6f6f6f"
-                 android:text="На процветание"
+                 android:text="@string/proc"
 
                  />
 
@@ -162,7 +162,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="На успех"
+                        android:text="@string/usp"
 
                         />
 
@@ -206,7 +206,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="На удачу"
+                        android:text="@string/udac"
 
                         />
 
@@ -260,19 +260,21 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/img_zdorovie"
                         android:src="@drawable/aff"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/text_zdorovie"
                         android:textStyle="bold"
                         android:textSize="12sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="Для здоровья"
+                        android:text="@string/zdorov"
 
                         />
 
@@ -302,12 +304,14 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/img_love"
                         android:src="@drawable/love"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/text_love"
                         android:textStyle="bold"
 
                         android:textSize="14sp"
@@ -315,7 +319,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="Для любви"
+                        android:text="@string/lubov"
 
                         />
 
@@ -367,19 +371,21 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/img_pohudenie"
                         android:src="@drawable/aff"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/text_pohudenie"
                         android:textStyle="bold"
                         android:textSize="14sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="Для похудения"
+                        android:text="@string/hudoy"
 
                         />
 
@@ -409,19 +415,21 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/img_everyday"
                         android:src="@drawable/aff"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/text_everyday"
                         android:textStyle="bold"
                         android:textSize="13sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="На каждый день"
+                        android:text="@string/kd"
 
                         />
 
@@ -476,19 +484,21 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/img_girls"
                         android:src="@drawable/aff"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/text_girls"
                         android:textStyle="bold"
                         android:textSize="13sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="Для девушек"
+                        android:text="@string/FGirls"
 
                         />
 
@@ -518,19 +528,21 @@
                     android:layout_height="match_parent">
 
                     <ImageView
+                        android:id="@+id/img_guys"
                         android:src="@drawable/aff"
                         android:layout_width="80dp"
                         android:layout_height="80dp" />
 
 
                     <TextView
+                        android:id="@+id/text_guyst"
                         android:textStyle="bold"
                         android:textSize="14sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:textColor="#6f6f6f"
-                        android:text="Для парней"
+                        android:text="@string/fgg"
 
                         />
 

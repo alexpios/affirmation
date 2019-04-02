@@ -535,7 +535,7 @@
 
 
                     <TextView
-                        android:id="@+id/text_guyst"
+                        android:id="@+id/text_guys"
                         android:textStyle="bold"
                         android:textSize="14sp"
                         android:layout_width="wrap_content"

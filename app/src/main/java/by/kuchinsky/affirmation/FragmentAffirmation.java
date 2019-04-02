@@ -151,7 +151,7 @@ View view;
         });
 
 
-        img_pohudenie=(ImageView)view.findViewById(R.id.img_love);
+        img_pohudenie=(ImageView)view.findViewById(R.id.img_pohudenie);
         text_pohudenie=(TextView)view.findViewById(R.id.text_pohudenie);
 
         img_pohudenie.setOnClickListener(new View.OnClickListener() {

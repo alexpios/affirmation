@@ -9,12 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Affirmation.Guys"></activity>
-        <activity android:name=".Affirmation.Girls" />
-        <activity android:name=".Affirmation.Everyday" />
-        <activity android:name=".Affirmation.Pohudenie" />
-        <activity android:name=".Affirmation.Love" />
-        <activity android:name=".Affirmation.Zdorovie" />
+        <activity android:name=".Affirmation.Guys" android:screenOrientation="portrait"></activity>
+        <activity android:name=".Affirmation.Girls" android:screenOrientation="portrait"/>
+        <activity android:name=".Affirmation.Everyday" android:screenOrientation="portrait" />
+        <activity android:name=".Affirmation.Pohudenie" android:screenOrientation="portrait"/>
+        <activity android:name=".Affirmation.Love" android:screenOrientation="portrait" />
+        <activity android:name=".Affirmation.Zdorovie" android:screenOrientation="portrait"/>
         <activity
             android:name=".Affirmation.newUdacha"
             android:screenOrientation="portrait" />
